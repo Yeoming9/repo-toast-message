@@ -11,3 +11,8 @@
   - React (TypeScript)
   - Recoil (전역 상태관리)
   - styled-componetns (스타일링)
+
+# 실행 방법
+  - VS code로 폴더 Open
+  - npm install
+  - npm start
