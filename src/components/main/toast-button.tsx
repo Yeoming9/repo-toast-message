@@ -36,7 +36,7 @@ const ToastBtnSide = () => {
       <button onClick={() => showToastMessage("My Message")}>
         Toast Button
       </button>
-      <button onClick={() => clearAllMessage()}>All Clear Message</button>
+      <button onClick={() => clearAllMessage()}>Clear All Message</button>
     </BtnSection>
   );
 };
